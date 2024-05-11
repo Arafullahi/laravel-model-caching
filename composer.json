@@ -1,5 +1,6 @@
 {
-    "name": "genealabs/laravel-model-caching",
+    "name": "genealabsaraf/laravel-model-caching",
+    "version": "1.4.22",
     "description": "Automatic caching for Eloquent models.",
     "license": "MIT",
     "authors": [
